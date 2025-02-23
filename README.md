@@ -5,7 +5,7 @@ This is a solution to the [Ping Coming Soon Page challenge on Frontend Mentor](h
 ---
 
 ## 🚀 Live Demo
-👉 [Live Site](#) *(Link will be updated after deployment)*
+👉 [Live Site](https://muhaideennausar.github.io/ping-coming-soon-page/)
 
 ---
 
